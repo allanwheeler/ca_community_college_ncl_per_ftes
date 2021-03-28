@@ -1,6 +1,6 @@
 # CA Community College Districts' Noncurrent Liabilities per FTES.
 
-This is an alterative look at the data I gathered on the 2018 financial position of California Community Colleges system while I was a policy analyst intern.
+This is an alterative look at the data I gathered on the 2018 financial position of California Community Colleges system while I was a policy analyst intern at the Reason Foundation.
 
 An interactive version of this visual can be [found here](https://rpubs.com/allanxwheeler/caccds).
 
